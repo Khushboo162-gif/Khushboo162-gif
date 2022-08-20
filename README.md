@@ -24,5 +24,5 @@
 <p align="left">
 
 <a href = "http://linkedin.com/in/khushboo-gaur-523206192"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/kissu_50/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/kissu__50/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
